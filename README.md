@@ -142,7 +142,7 @@ plt.show()
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Rk-ahmed/Statistical-analysis/blob/main/online_retail.ipynb>
    ```
 2. Open the Jupyter Notebook and run the cells in sequence.
 3. Ensure the following libraries are installed:
